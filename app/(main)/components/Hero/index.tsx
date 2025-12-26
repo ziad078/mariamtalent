@@ -9,7 +9,7 @@ const Hero = () => {
       <section className="flex flex-col-reverse gap-4 md:flex-row py-6 items-center justify-center md:justify-between">
         <div className="text-center md:text-right text-gray-50 flex flex-col gap-5 max-w-lg">
           <h5 className="">مرحبا بالجميع!</h5>
-          <h3 className="group text-6xl gap-2 text-center basis-full md:text-right">
+          <h3 className="group text-4xl gap-2 text-center basis-full md:text-right">
             <span className="text-white group-hover:text-pink-400 duration-200 ml-5">
               أ/مريم
             </span>
